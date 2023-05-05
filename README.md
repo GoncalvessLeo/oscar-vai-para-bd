@@ -1,5 +1,5 @@
 
-#![oscar (2)](https://user-images.githubusercontent.com/125033731/236519898-326fac96-80e3-4a93-b48d-1e29715a888b.png) <h1> Oscar vai para...</h1>
+![oscar (2)](https://user-images.githubusercontent.com/125033731/236519898-326fac96-80e3-4a93-b48d-1e29715a888b.png) <h1> Oscar vai para...</h1>
 ## Filtrando o banco de dados do Oscar, para responder diferentes tipos de questões relacionadas as premiações.
 
 <h3> 1- Quantas vezes Natalie Portman foi indicada ao Oscar? </h3>
